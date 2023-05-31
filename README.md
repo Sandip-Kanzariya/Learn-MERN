@@ -15,5 +15,7 @@ mongod
 mongosh
 show dbs
 ~~~~
-https://github.com/Sandip-Kanzariya/Learn-MERN/assets/105594748/d94c4254-91f4-479e-be20-84435226d6ac
 
+
+
+[![MongoDB](https://github.com/Sandip-Kanzariya/Codeforces/assets/105594748/e14ac8a1-674e-496a-8679-48dcbc42c5d9)](https://github.com/Sandip-Kanzariya/Learn-MERN/assets/105594748/d94c4254-91f4-479e-be20-84435226d6ac)
