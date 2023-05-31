@@ -12,13 +12,8 @@ Installation, Starting of all tools and learning
 
 ~~~~
 mongod
-
 mongosh
+show dbs
 ~~~~
 
-Show all Databases : 
-~~~~
-show dbs 
 
-use dbname
-~~~~
