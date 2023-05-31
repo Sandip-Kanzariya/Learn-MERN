@@ -1,7 +1,7 @@
 # Learn-MERN
 Installation, Starting of all tools and learning
 
-# JSON : 
+# JSON : JavaScript Object Notation
 1. [Amazing Tutorial On Json For Beginners](https://youtu.be/6OhMbf2v_jI)
 
 # MongoDB : 
@@ -19,3 +19,5 @@ show dbs
 ~~~~
 
 https://github.com/Sandip-Kanzariya/Codeforces/assets/105594748/75464082-67b4-4631-812d-5686729e8602
+
+# React JS : 
