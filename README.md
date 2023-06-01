@@ -3,8 +3,8 @@ Installation, Starting of all tools and learning
 
 |Table of Contents|
 | ---|
-|[Json](https://github.com/Sandip-Kanzariya/Learn-MERN/tree/main#mongodb-)|
-|[MongoDB](https://github.com/Sandip-Kanzariya/Learn-MERN/tree/main#json--javascript-object-notation) |
+|[Json](https://github.com/Sandip-Kanzariya/Learn-MERN/tree/main#json--javascript-object-notation)|
+|[MongoDB](https://github.com/Sandip-Kanzariya/Learn-MERN/tree/main#mongodb-)|
 |[ReactJS](https://github.com/Sandip-Kanzariya/Learn-MERN/tree/main#react-js-) |
 |NodeJS |
 |ExpressJS|
