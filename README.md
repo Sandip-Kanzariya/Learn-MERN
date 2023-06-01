@@ -32,6 +32,10 @@ https://github.com/Sandip-Kanzariya/Codeforces/assets/105594748/75464082-67b4-46
 ~~~~
 use databasename
 ~~~~
+>Get All Collections : 
+~~~
+ db.getCollectionNames()
+~~~
 
 >Create  
 ~~~~
