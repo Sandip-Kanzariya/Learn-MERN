@@ -81,4 +81,4 @@ db.collectionName.delete()
 
 # React JS : 
 > Installation & Set up
-1. [Download Node JS](https://nodejs.org/en/download)
+1. [Download Node](https://nodejs.org/en/download)
