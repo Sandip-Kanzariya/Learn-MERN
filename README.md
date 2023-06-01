@@ -3,7 +3,7 @@ Installation, Starting of all tools and learning
 
 # JSON : JavaScript Object Notation
 1. [Amazing Tutorial On Json For Beginners](https://youtu.be/6OhMbf2v_jI)
-
+2. [Json Formatter](https://jsonformatter.org/)
 # MongoDB : 
 >Installation & Setup :
 
