@@ -3,11 +3,42 @@ Installation, Starting of all tools and learning
 
 |Table of Contents|
 | ---|
+| ES6 & Typescript|
 |[Json](https://github.com/Sandip-Kanzariya/Learn-MERN/tree/main#json--javascript-object-notation)|
 |[MongoDB](https://github.com/Sandip-Kanzariya/Learn-MERN/tree/main#mongodb-)|
 |[ReactJS](https://github.com/Sandip-Kanzariya/Learn-MERN/tree/main#react-js-) |
 |NodeJS |
 |ExpressJS|
+
+# React JS : 
+> Installation & Set up
+1. [Download Node](https://nodejs.org/en/download)
+
+# ES6 & Typscript 
+
+>Installation Globally
+```
+npm install typescript -g
+```
+>create tsconfig.json
+```
+tsc --init
+```
+```json
+<!-- All .js files store in scripts -->
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "sourceMap": true,
+    "outDir": "scripts/"
+  }
+}
+```
+
 
 # JSON : JavaScript Object Notation
 1. [Amazing Tutorial On Json For Beginners](https://youtu.be/6OhMbf2v_jI)
@@ -79,6 +110,4 @@ db.collectionName.delete()
 ~~~~
 
 
-# React JS : 
-> Installation & Set up
-1. [Download Node](https://nodejs.org/en/download)
+
