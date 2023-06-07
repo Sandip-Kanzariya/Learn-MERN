@@ -16,6 +16,8 @@ Installation, Starting of all tools and learning
 
 # ES6 & Typscript 
 
+[TS Playground](https://www.typescriptlang.org/play?#code/MYewdgziA2CmB00QHMAUAiAFraT0Eog)
+
 >Installation Globally
 ```
 npm install typescript -g
