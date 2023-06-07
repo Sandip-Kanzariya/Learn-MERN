@@ -25,6 +25,8 @@ npm -v
 >Installation Globally
 ```
 npm install typescript -g
+
+tsc  filename.ts
 ```
 >create tsconfig.json
 ```
