@@ -13,6 +13,10 @@ Installation, Starting of all tools and learning
 # React JS : 
 > Installation & Set up
 1. [Download Node](https://nodejs.org/en/download)
+~~~
+node -v
+npm -v
+~~~
 
 # ES6 & Typscript 
 
@@ -24,6 +28,7 @@ npm install typescript -g
 ```
 >create tsconfig.json
 ```
+tsc -v
 tsc --init
 ```
 ```json
