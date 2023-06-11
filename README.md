@@ -14,8 +14,20 @@ Installation, Starting of all tools and learning
 > Installation & Set up
 1. [Download Node](https://nodejs.org/en/download)
 ~~~
-node -v
+Check First this : 
 npm -v
+node -v
+~~~
+2. Create First Project Of React 
+~~~
+npx create-react-app .
+npm start 
+
+        OR
+        
+npx create-react-app app-name
+cd app-name
+npm start
 ~~~
 
 # ES6 & Typscript 
