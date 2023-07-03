@@ -69,9 +69,9 @@ tsc --init
 >Installation & Setup :
 
 
-1. [MongoDB](https://www.mongodb.com/try/download/community) | Set Path of bin folder in Environment Variable
+1. [MongoDB](https://www.mongodb.com/try/download/community) (Server) | Set Path of bin folder in Environment Variable
 
-2. [mongosh](https://www.mongodb.com/try/download/shell) | Set Path of bin folder in Environment Variable    
+2. [mongosh](https://www.mongodb.com/try/download/shell) (Client) | Set Path of bin folder in Environment Variable    
 
 ~~~~
 mongod
