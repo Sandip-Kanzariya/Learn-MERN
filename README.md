@@ -3,6 +3,7 @@ Installation, Starting of all tools and learning
 
 |Table of Contents|
 | ---|
+|JavaScript| 
 | ES6 & Typescript|
 |[Json](https://github.com/Sandip-Kanzariya/Learn-MERN/tree/main#json--javascript-object-notation)|
 |[MongoDB](https://github.com/Sandip-Kanzariya/Learn-MERN/tree/main#mongodb-)|
