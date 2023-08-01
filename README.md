@@ -2,7 +2,7 @@
 # Learn-MERN
 Installation, Starting of all tools and learning
 
->[Best Tutorials](https://www.youtube.com/@procademy/about)
+>[Best Tutorials](https://www.youtube.com/@procademy)
 
 |Table of Contents|
 | ---|
