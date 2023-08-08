@@ -142,6 +142,9 @@ db.collectionName.delete()
 [Tutorial](https://youtube.com/playlist?list=PL8p2I9GklV456iofeMKReMTvWLr7Ki9At)
 > Intall module for Connect MongoDB with NodeJS
 ```npm i mongodb```
+   OR
+```npm i mongoose```
+
 # ExpressJs : 
 ```
 npm i express
