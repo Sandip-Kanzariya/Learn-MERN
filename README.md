@@ -41,31 +41,22 @@ npm start
 
 [TS Playground](https://www.typescriptlang.org/play?#code/MYewdgziA2CmB00QHMAUAiAFraT0Eog)
 
->Installation Globally
+>Installation Globally [node is required]
 ```
-npm install typescript -g
-
-tsc  filename.ts
-```
->create tsconfig.json
-```
+npm install -g typescript
 tsc -v
-tsc --init
 ```
-```json
-<!-- All .js files store in scripts -->
-{
-  "compilerOptions": {
-    "target": "es2016",
-    "module": "commonjs",
-    "esModuleInterop": true,
-    "forceConsistentCasingInFileNames": true,
-    "strict": true,
-    "sourceMap": true,
-    "outDir": "scripts/"
-  }
-}
+>Run .ts file
 ```
+tsc  filename.ts
+node filename.js
+```
+>ts-node module
+```
+npm install -g ts-node
+ts-node filename.ts
+```
+
 
 
 # JSON : JavaScript Object Notation
