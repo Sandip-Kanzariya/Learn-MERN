@@ -47,7 +47,7 @@ npm install -g @angular/cli
 ng v
 ```
 
-> Create Angular Poject
+> Create Angular Project
 ```
 ng new app-name
 ```
