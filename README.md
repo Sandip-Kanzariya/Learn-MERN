@@ -57,7 +57,7 @@ ng new app-name
 ```
 cd app-name
 
-ng server
+ng serve
 ```
 
 # ES6 & Typscript 
