@@ -11,6 +11,7 @@ Installation, Starting of all tools and learning
 |[Json](https://github.com/Sandip-Kanzariya/Learn-MERN/tree/main#json--javascript-object-notation)|
 |[MongoDB](https://github.com/Sandip-Kanzariya/Learn-MERN/tree/main#mongodb-)|
 |[ReactJS](https://github.com/Sandip-Kanzariya/Learn-MERN/tree/main#react-js-) |
+|[Angular](https://github.com/Sandip-Kanzariya/Learn-MERN/tree/main#angular-) |
 |[NodeJS](https://github.com/Sandip-Kanzariya/Learn-MERN#nodejs-) |
 |[ExpressJS](https://github.com/Sandip-Kanzariya/Learn-MERN#expressjs-)|
 
@@ -36,6 +37,28 @@ npx create-react-app app-name
 cd app-name
 npm start
 ~~~
+
+# Angular
+> Angular CLI
+
+```
+npm install -g @angular/cli
+
+ng v
+```
+
+> Create Angular Poject
+```
+ng new app-name
+```
+
+> Compile & Run
+
+```
+cd app-name
+
+ng server
+```
 
 # ES6 & Typscript 
 
